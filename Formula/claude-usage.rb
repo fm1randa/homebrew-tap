@@ -1,8 +1,8 @@
 class ClaudeUsage < Formula
   desc "Check your Claude Plan usage statistics via the Anthropic OAuth API"
   homepage "https://github.com/fm1randa/claude-usage"
-  url "https://github.com/fm1randa/claude-usage/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "1b35aea1a139dced7c66d8930eaca3d7a2a5daac0ec78e358457e974e29db95d"
+  url "https://github.com/fm1randa/claude-usage/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "e1e8e484a6dc56fc7773e620f05b3a381cb83ef6bd87bbc20061a321c2f949db"
   license "MIT"
 
   depends_on "jq"
